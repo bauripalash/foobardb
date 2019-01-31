@@ -1,4 +1,4 @@
-# FoobarFB
+# FoobarDB
 Simple Toy Database
 
 ## USE
