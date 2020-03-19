@@ -10,4 +10,4 @@ Simple Toy Database
 'Palash'
 ```
 
-READ THE GUIDE HERE > 
+[READ THE GUIDE HERE >](https://dev.palashbauri.in/write-a-simple-toy-database-in-python-within-minutes-ck5th6dc907m9qks1lnll0ujz)
